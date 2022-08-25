@@ -1,11 +1,8 @@
 # Onboarding project for JavaScript  
 
-This is a JavaScript project for all new developers to complete before venturing into our web frontend codebase.  
+This is a JavaScript project for candidates to complete as part of an assessment.  
 
-Once you complete this project, and have been through code review, you will have a much better understanding of JavaScript
-and it's superset, TypeScript, that we use for development.  
-
-## Technologies you will encounter  
+## Technologies you will encounter 
 
 1. HTML  
 1. CSS  
@@ -58,12 +55,11 @@ Here are the relevant API calls:
 				[2, "Johannesburg", 4500000]  
 		]`  
 
-## Code Review  
+## Review  
 
-Once you are done and happy with your solution, submit your code for code review by creating a pull request in GITHUB. The code review will take the following into account:  
+NB : Before the specified deadline for submission, submit your code for assessment by creating a pull request in GITHUB. The review will take the following into account:  
 
 1. Was the brief correctly followed, does the grid work as expected  
-1. Is the code style according to our [JavaScript Style Guide](https://imqssoftware.atlassian.net/wiki/display/AR/Javascript+Style+Guide)  
 1. User-centric thinking - is the grid easy to use  
 1. Suitable comments  
 1. Performance considerations   
@@ -71,8 +67,9 @@ Once you are done and happy with your solution, submit your code for code review
 
 ## Pre-requisites  
 
-1. You need to have set up your development environment [as described here](https://imqssoftware.atlassian.net/wiki/display/AR/Dev+Environment).  
-1. We suggest using VSCode, but you can use your IDE of choice.   
+1. Install Go (golang)
+1. Install node.js
+1. We suggest using VSCode, but you can use your IDE of choice.
 
 ## Getting Started  
 These steps include just enough detail to guide you. Each step will require some additional research on your part:
